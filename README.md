@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1>Hi 👋, I'm Harshal Mahajan</h1>
+<br>
+
+
+- 🔭 I’m currently working at [Synechron](https://www.synechron.com/) as Techology -Lead.
+- 🌱 I have a 6+ years of experience at UI side on diffreent type of web technologies like Angular, React Js, Javascript, Bootstrap, SCSS, HTML.
+
 
 <!--
 **pawanpatil08/pawanpatil08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

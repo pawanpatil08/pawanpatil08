@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working at [Synechron](https://www.synechron.com/) as Techology -Lead.
-- 🌱 I have a 6+ years of experience at UI side on diffreent type of web technologies like Angular, React Js, Javascript, Bootstrap, SCSS, HTML.
+- 🌱 I have a 6+ years of experience at UI side on different type of web technologies like Angular, React Js, Javascript, Bootstrap, SCSS, HTML.
 
 
 [![GitHub pawanpatil08](https://komarev.com/ghpvc/?username=pawanpatil08&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/pawanpatil08)

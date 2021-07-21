@@ -6,17 +6,43 @@
 - 🌱 I have a 6+ years of experience at UI side on diffreent type of web technologies like Angular, React Js, Javascript, Bootstrap, SCSS, HTML.
 
 
-<!--
-**pawanpatil08/pawanpatil08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub pawanpatil08](https://komarev.com/ghpvc/?username=pawanpatil08&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/pawanpatil08)
+[![GitHub pawanpatil08](https://img.shields.io/github/followers/pawanpatil08?label=follow&style=social)](https://github.com/pawanpatil08)
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Skill set and Tools:**
+
+<code><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="40"/></code>
+<code><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" height="40"/></code>
+<code><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" height="40"/> </code>
+
+<br/>
+
+**📫 How to reach me:**
+
+<code>[![Linkedin: pawanpatil08](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imharshm/)](https://www.linkedin.com/in/imharshm/)</code>
+<code>[![Twitter: imharshm](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/imharshm_/)](https://twitter.com/imharshm_/)</code>
+<code>[![Instgram: imharshm](https://img.shields.io/badge/-Instagram-e95950?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/)](https://www.instagram.com/imharshm/)</code>
+<code>[![Youtube: imharshm](https://img.shields.io/badge/-Youtube-ff0102?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/imharshm/)](https://www.youtube.com/channel/UCdgTDgicQbRDMWNEnCNW9JA)</code>
+<code>[![website](https://img.shields.io/badge/PortfolioWebsite-imharshm-006d70?style=flat-square&logo=google-chrome&logoColor=white)](https://imharshm.github.io/)</code>
+
+<br/>
+
+<p>
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=imharshm&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=imharshm&layout=compact&langs_count=8&theme=algolia"/>
+
+</p>
+
+<div align="center">
+
+### Thank you for visit ! ❤️
+
+</div>

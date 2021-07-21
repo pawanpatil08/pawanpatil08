@@ -25,15 +25,6 @@
 
 <br/>
 
-**📫 How to reach me:**
-
-<code>[![Linkedin: pawanpatil08](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imharshm/)](https://www.linkedin.com/in/imharshm/)</code>
-<code>[![Twitter: imharshm](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/imharshm_/)](https://twitter.com/imharshm_/)</code>
-<code>[![Instgram: imharshm](https://img.shields.io/badge/-Instagram-e95950?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/)](https://www.instagram.com/imharshm/)</code>
-<code>[![Youtube: imharshm](https://img.shields.io/badge/-Youtube-ff0102?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/imharshm/)](https://www.youtube.com/channel/UCdgTDgicQbRDMWNEnCNW9JA)</code>
-<code>[![website](https://img.shields.io/badge/PortfolioWebsite-imharshm-006d70?style=flat-square&logo=google-chrome&logoColor=white)](https://imharshm.github.io/)</code>
-
-<br/>
 
 <p>
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=imharshm&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>

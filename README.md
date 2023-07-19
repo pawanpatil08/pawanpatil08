@@ -2,9 +2,9 @@
 <br>
 
 
-- 🔭 I’m currently working at [Synechron](https://www.synechron.com/) as Techology -Lead.
+- 🔭 I’m currently working as Technology -Lead.
 
-- 🌱 I have a 7+ years of experience at UI side on different type of web technologies like Angular, React Js, Javascript, Bootstrap, SCSS, HTML.
+- 🌱 I have 7+ years of experience in the UI side of web technologies like Angular, React Js, Javascript, Bootstrap, SCSS, and HTML.
 
 
 [![GitHub pawanpatil08](https://komarev.com/ghpvc/?username=pawanpatil08&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/pawanpatil08)
@@ -12,7 +12,7 @@
 
 <br/>
 
-**Skill set and Tools:**
+**Skillset and Tools:**
 
 <code><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="40"/></code>
@@ -34,6 +34,6 @@
 
 <div align="center">
 
-### Thank you for visit ! ❤️
+### Thank you for visit! ❤️
 
 </div>
